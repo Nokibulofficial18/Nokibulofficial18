@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKohhe6zGdyl4TAOSb9gQWMARO-bjgSz1GEw&s)]
+![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKohhe6zGdyl4TAOSb9gQWMARO-bjgSz1GEw&s](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgdw0JhAdZcwu_9M5xcxrq31dmwUpGGcxMoA&s))
 <h1 align="center">Hi 👋, I'm Nokibul Hasan Mojumder Tasir</h1>
 <h3 align="center">A passionate tech enthusiast and competitive programmer. Working on ML/AI and Web Dev</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
